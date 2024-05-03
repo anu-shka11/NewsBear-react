@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Kevin Hand",
+      "title": "Pakistan Cricket Board appoints Gillespie and Kirsten as men’s head coaches",
+      "description": "Kirsten to take charge in limited overs formats and Gillespie in Tests after months of turmoil in Pakistan cricket.",
+      "url": "https://www.aljazeera.com/sports/2024/4/28/hold_pakistan-cricket-board-appoints-jason-gillespie-as-mens-head-coach",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/2023-11-11T000000Z_1163419840_UP1EJBB0P3X1N_RTRMADP_3_CRICKET-WORLDCUP-ENG-PAK-1714287399.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-04-28T08:32:31Z",
+      "content": "Former South Africa batter and coach Gary Kirsten has been appointed head coach for Pakistan mens cricket team in limited overs cricket ahead of the upcoming ICC Mens T20 World Cup 2024 while former … [+2587 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "James Dampney",
+      "title": "Daughter’s moving tribute to beloved dad",
+      "description": "Phoebe Jones, the daughter of the late cricketing legend Dean Jones, has paid a special tribute to her father on her wedding day in the Philippines.",
+      "url": "https://www.news.com.au/sport/cricket/dean-jones-daughter-phoebe-shares-emotional-wedding-tribute/news-story/a25ca376fbec0d96e8a463dab15854ab",
+      "urlToImage": "https://content.api.news/v3/images/bin/1cf0a681013e165bd9fe2cf245cb6ac2",
+      "publishedAt": "2024-04-28T06:55:00Z",
+      "content": "Phoebe Jones, the daughter of the late cricketing legend Dean Jones, has paid a special tribute to her father on her wedding day in the Philippines.\r\nDean Jones, who was inducted to the Australian Cr… [+2654 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
